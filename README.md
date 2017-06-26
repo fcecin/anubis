@@ -20,8 +20,8 @@ The non-standard library JARs used are included in the projects' /lib folders.
 You should be able to open both nbproject folders and compile the projects immediately. 
 The libraries used are licensed under their respective licenses:
 
-Prevayler: http://prevayler.org/
-EdDSA-java: https://github.com/str4d/ed25519-java
-JBcrypt: http://www.mindrot.org/projects/jBCrypt/
-Javamail: https://javaee.github.io/javamail/
+* Prevayler: http://prevayler.org/
+* EdDSA-java: https://github.com/str4d/ed25519-java
+* JBcrypt: http://www.mindrot.org/projects/jBCrypt/
+* Javamail: https://javaee.github.io/javamail/
 
