@@ -25,3 +25,4 @@ The libraries used are licensed under their respective licenses:
 * JBcrypt: http://www.mindrot.org/projects/jBCrypt/
 * Javamail: https://javaee.github.io/javamail/
 
+If you need help with this software, contact me directly ( fcecin AT gmail DOT com ) and I'll help you out.
