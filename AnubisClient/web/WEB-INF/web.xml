@@ -13,8 +13,4 @@
             60
         </session-timeout>
     </session-config>
-    
-</security-constraint>
-
-    
 </web-app>
