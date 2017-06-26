@@ -25,4 +25,7 @@ The libraries used are licensed under their respective licenses:
 * JBcrypt: http://www.mindrot.org/projects/jBCrypt/
 * Javamail: https://javaee.github.io/javamail/
 
+Actually, JBcrypt was a single .java file, so it was faster to just paste it into the project source tree, instead 
+of carrying around another external .jar dependency.
+
 If you need help with this software, contact me directly ( fcecin AT gmail DOT com ) and I'll help you out.
